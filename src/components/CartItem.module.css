@@ -1,0 +1,21 @@
+.listItem {
+    display: flex;
+    justify-content: space-between;
+}
+
+.btnDiv {
+    display: flex;
+}
+
+.btn {
+    width: 2rem;
+    height: 2rem;
+    background: rgb(165, 109, 153);
+    color: white;
+    border-radius: 5px;
+}
+
+.para {
+    text-align: center;
+    margin: 0 10% 0 10%;
+}
