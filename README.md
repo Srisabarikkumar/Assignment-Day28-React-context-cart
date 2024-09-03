@@ -26,3 +26,7 @@ This is a repository of React Context Cart Task's Solution.
 ```bash
  http://localhost:5173
 ```
+
+# Deployed URL:
+
+https://react-context-cart-app.netlify.app
