@@ -1,5 +1,5 @@
 /* eslint-disable react/prop-types */
-import classes from "./cartItem.module.css";
+import classes from "./CartItem.module.css";
 
 function CartItem({ item, cartAddItemHandler, cartRemoveItemHandler }) {
   const price = `Rs. ${item.price.toFixed(2)}`;
